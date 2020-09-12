@@ -5,3 +5,4 @@ Project Developers:
 - Erin Tan
 - Jovany Zepeda
 - Michael Pfeiffer
+- Jasmine Wong
